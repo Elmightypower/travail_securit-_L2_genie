@@ -1,0 +1,3 @@
+
+Ce code est un programme Python qui implémente l'algorithme de chiffrement Freisnel. Il prend en entrée une clé K de 8 caractères, une fonction H de permutation de 8 caractères, un ordre de décalage à gauche et à droite, une valeur N ou C à traiter et une permutation P de 4 caractères. Il génère ensuite une clé à partir des informations fournies et effectue le chiffrement ou le déchiffrement selon les instructions données par l'utilisateur.
+
